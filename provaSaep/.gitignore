@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# Dependências do sistema de pacotes
+npm-debug.log
+yarn-error.log
+
+# Diretórios de build
+/dist
+/build
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de logs
+*.log
+
+# Diretórios temporários
+tmp/
+temp/
+
+# Arquivos do sistema operacional (como o .DS_Store no macOS)
+.DS_Store
+Thumbs.db
